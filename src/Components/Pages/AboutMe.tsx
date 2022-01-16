@@ -18,7 +18,7 @@ const Title: FC<AboutMe> = ({ children }) => {
     return (
         <div className="d-flex flex-column justify-content-center align-items-center p-5">
             <div id="aboutme" style={style}>
-                <h1 >Biography</h1>
+                <h1>Biography</h1>
 
                 <div className="d-flex justify-content-center flex-wrap flex-xl-nowrap">
                     
